@@ -5,4 +5,4 @@
     <br />  [926小程式](https://colab.research.google.com/drive/14tOZ9FpiIlxsp00d-ECED1WdeydE2gyY?usp=sharing)
     <br />  [1016練習](https://github.com/Huwalli/Latia-113-1/blob/main/1016.ipynb)
     <br />  [1107練習](https://github.com/Huwalli/Latia-113-1/blob/main/1106.ipynb)
-    <br />  [1114報告](https://github.com/Huwalli/Latia-113-1/blob/main/1106.ipynb)
+    <br />  [1114報告](https://github.com/Huwalli/Latia-113-1/blob/main/1114%E5%A0%B1%E5%91%8A.pdf)
